@@ -13,7 +13,7 @@ This project is currently in alpha stage and is not recommended for production u
 - 🔗 Blockchain Integration (EVM for now, will add more)
 - 🐦 Social Media Integration (Twitter, Telegram for now, will add more)
 - 🛠️ Extensible Skill System
-- 🔌 Extensible Plugin System (WIP)
+- 🔌 Extensible Plugin System (WIP) 
 
 ## Architecture
 
